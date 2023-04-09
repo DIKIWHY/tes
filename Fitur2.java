@@ -1,5 +1,5 @@
 public class Fitur2 {
     public static void main(String[] args) {
-        System.out.println("Ini fitur 2");
+        System.out.println("Fitur 2 ditiadakan akibat banyaknya bug yang tidak teratasi");
     }
 }
